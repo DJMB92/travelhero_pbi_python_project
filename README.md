@@ -10,7 +10,7 @@
 
 ## The Idea behind everything.
 
-Exploring the many travel APIs out there, I wanted to create a beautiful no-hassle application that could give me any destination in the blink of an eye, with all the nearby ammenities & entertaiment along with the prices, weather for the days that I would be staying there.
+While exploring the many travel APIs out there, the problem came from wanting to create a beautiful no-hassle application that could give me any destination in the blink of an eye, with all the nearby amenities & entertainment along with the prices, weather for the day that the user would be staying there.
 
 <p align="center">
   <a>	
@@ -22,13 +22,13 @@ Exploring the many travel APIs out there, I wanted to create a beautiful no-hass
 
 
 
-- User's Interface: Tkinter - Receives the dates, origin, destination and number of passengers.
+- User's Interface: Tkinter - Receives the dates, origin, destination, and number of passengers.
 - WebsCrapping Cities Coordinates: Using Json connector to scrap from techslides.com the long & lat of all the main cities.
 - Weather Report: Weather Forecast's API Consult based on the destination coordinates.
-- IATA Codes: Webscrapping the IATA codes for every airport in the world.
-- SkyScanner: Using IATA Codes, number of passengers and the dates provided by the user to get the flights.
-- Hotels(GoogleMaps): Consulting Google Maps APIs to find the nearest hotels and entertaiment based on the destination's coordinates.
-- Power BI Deployment: All the code is built within Power BI to refresh on demand and showcase the results just as any travel app.
+- IATA Codes: Webscrapping the IATA codes for every airport worldwide.
+- Skyscanner: Using IATA Codes, the number of passengers and the dates the user provides to get the flights.
+- Hotels(GoogleMaps): Consulting Google Maps APIs to find the nearest hotels and entertainment based on the destination's coordinates.
+- Power BI Deployment: All the code is built within Power BI to refresh on demand and showcase the results like any travel app.
 
 ### More About Me...
 Find me on [LinkedIn](https://www.linkedin.com/in/danieljmendezb/)
