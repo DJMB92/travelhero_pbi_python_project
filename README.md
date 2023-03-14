@@ -18,9 +18,7 @@ Exploring the many travel APIs out there, I wanted to create a beautiful no-hass
   </a>
 </p>
 
-## Other CodeSandbox repositories
-
-### TravelHero consists of several separate steps:
+## TravelHero consists of several separate steps:
 
 
 
@@ -32,8 +30,6 @@ Exploring the many travel APIs out there, I wanted to create a beautiful no-hass
 - Hotels(GoogleMaps): Consulting Google Maps APIs to find the nearest hotels and entertaiment based on the destination's coordinates.
 - Power BI Deployment: All the code is built within Power BI to refresh on demand and showcase the results just as any travel app.
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+### More About Me...
+Find me on [LinkedIn](https://www.linkedin.com/in/danieljmendezb/)
 
-## Thanks# travelhero_pbi_python_project
